@@ -1,4 +1,4 @@
 # HoughTransform
 Hough Transform Sandbox
 
-**Initial setup. Nothing lives here yet.**
+**Limited demo of Hough transform, lines only**
